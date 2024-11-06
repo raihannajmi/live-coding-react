@@ -1,0 +1,9 @@
+/* Styling for the About section */
+.about {
+  margin-top: 20px;
+  color: #f8f9fa;
+  background-color: #444;
+  padding: 10px;
+  border-radius: 6px;
+  text-align: center;
+}
